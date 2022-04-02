@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" dir="ltr">
 <head>
-<title>Quiz App</title>
+    <meta charset="utf-8">
+    <title>Quiz App</title>
+    <meta name="viewport" content=""width=device-width, initial-scale="1.0">
 </head>
 <body style="background-color:hsl(210,29%,13%);"> </body>
 
@@ -17,6 +19,14 @@
     <br>
     <li style="color: whitesmoke">At the end you will be able to see your final score</li>
 
+</ul>
+
+<ul> 
+    <li><a href="#0"> </a>Sports</li>
+    <li><a href=""> </a>Science</li>
+    <li><a href=""> </a>History</li>
+    <li><a href=""> </a>Geography</li>
+    <li><a href=""> </a>Movies</li>
 </ul>
 
 </body>
