@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quiz App</title>
+</head>
+<body style="background-color:hsl(210,29%,13%);"> </body>
+
+<h1 style="text-align:center; color:whitesmoke">Quiz App Instructions</h1>
+
+<ul>
+    <br>
+    <li style="color: whitesmoke">Select a quiz that interests you from the available choices</li>
+    <br>
+    <li style="color: whitesmoke">There will be 10 questions that you must answer for each quiz</li>
+    <br>
+    <li style="color: whitesmoke">The quizes will be multiple-choice and you must select from 4 choices</li>
+    <br>
+    <li style="color: whitesmoke">At the end you will be able to see your final score</li>
+
+</ul>
+
+</body>
+</html>
