@@ -4,11 +4,52 @@
     <meta charset="utf-8">
     <title>Quiz App</title>
     <meta name="viewport" content=""width=device-width, initial-scale="1.0">
+
 </head>
 <body style="background-color:hsl(210,29%,13%);"> </body>
 
 <h1 style="text-align:center; color:whitesmoke">Quiz App Instructions</h1>
+<style>
 
+.navbar {
+    overflow: hidden;
+    background-color: whitesmoke;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: hsl(210,29%,13%);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: #616165;
+    color: black
+}
+
+.main {
+    padding: 16px;
+    margin-bottom: 30px;
+}
+</style>
+
+<div class="navbar">
+    <a href="Quiz_App_Instructions.html" class="active">Home</a>
+    <a href="Sports_Quiz.html" class="active">Sports</a>
+    <a href="Science_Quiz.html">Science</a>
+    <a href="History_Quiz.html">History</a>
+    <a href="Geography_Quiz.html">Geography</a>
+    <a href="Movies_Quiz.html">Movies</a>
+</div>
+    
+</div>
 <ul>
     <br>
     <li style="color: whitesmoke">Select a quiz that interests you from the available choices</li>
@@ -21,13 +62,6 @@
 
 </ul>
 
-<ul> 
-    <li><a href="#0"> </a>Sports</li>
-    <li><a href=""> </a>Science</li>
-    <li><a href=""> </a>History</li>
-    <li><a href=""> </a>Geography</li>
-    <li><a href=""> </a>Movies</li>
-</ul>
 
 </body>
 </html>
